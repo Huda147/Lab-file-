@@ -18,17 +18,14 @@ A deep learning project to classify different types of flowers using Convolution
 
 ## 📖 Overview
 
-This project focuses on image classification of flower species using a CNN-based model. The goal is to automatically recognize and categorize flower types from images using supervised learning.
+This lab project file is for machine learning for beginners course.
 
 ---
 
 ## 🗂 Dataset
 
-- The dataset should be placed in the `Datasets/Training_set` folder.
-- Images are resized to **64x64 pixels** for training.
-- Flower categories are inferred from the folder names.
-
-> ⚠️ Ensure your dataset follows the structure: `Datasets/Training_set/<class_name>/<images>`
+- The dataset should be placed in the parent folder.
+- All the dataset is placed in Dataset folder.
 
 ---
 
