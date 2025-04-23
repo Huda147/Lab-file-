@@ -1,4 +1,4 @@
-# 🌸 Flower Recognition using CNN
+# 🌸 LAB Files in one go
 
 A deep learning project to classify different types of flowers using Convolutional Neural Networks (CNN) in TensorFlow/Keras.
 
